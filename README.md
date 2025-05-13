@@ -15,9 +15,11 @@ Current Projects:
 Previous Projects (selected):
 * ChessSL: Supervised Learning Chess engine with MCTS
 * hydroFV: Finite volume hydrodynamics solver for the compressible Euler's equation
+* OrbitSim: Interactive Newtonian N-body gravity simulator accelerated with C library
 
 Youtube channel (for project demonstrations):
 * https://www.youtube.com/@alvinng4
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvinng4&show_icons=true&theme=radical)\
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvinng4&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinng4&layout=compact&theme=radical)
