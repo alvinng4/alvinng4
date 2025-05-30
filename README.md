@@ -9,10 +9,10 @@ Interest:
 * Mobile applications
 
 Current Projects:
-* grav_sim: N-body gravity simulation library with C and Python API
-* Mobile apps: productivity app development
+* iOS development: productivity app development with swift and swiftUI
 
 Previous Projects (selected):
+* grav_sim: N-body gravity simulation library with C and Python API
 * ChessSL: Supervised Learning Chess engine with MCTS
 * hydroFV: Finite volume hydrodynamics solver for the compressible Euler's equation
 * OrbitSim: Interactive Newtonian N-body gravity simulator accelerated with C library
