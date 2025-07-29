@@ -2,6 +2,7 @@
 
 - I am a fourth-year physics major studying at CUHK
 - You may contact me at alvinng324(at)gmail.com
+- X: @alvinng324
 
 Interest: 
 * High performance computing, N-body simulation
@@ -9,7 +10,7 @@ Interest:
 * Mobile applications
 
 Current Projects:
-* iOS development: productivity app development with swift and swiftUI
+* QuestList: gamified productivity app development with Swift And SwiftUI
 
 Previous Projects (selected):
 * grav_sim: N-body gravity simulation library with C and Python API
