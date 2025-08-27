@@ -1,6 +1,6 @@
 ### Hi! I am Alvin
 
-- I am a fourth-year physics major studying at CUHK
+- I am a fifth-year physics major studying at CUHK
 - You may contact me at alvinng324(at)gmail.com
 - X: @alvinng324
 
@@ -10,11 +10,12 @@ Interest:
 * Mobile applications
 
 Current Projects:
-* QuestList: gamified productivity app development with Swift And SwiftUI
+* Thinking what to do next!
 
 Previous Projects (selected):
 * grav_sim: N-body gravity simulation library with C and Python API
 * ChessSL: Supervised Learning Chess engine with MCTS
+* QuestList: gamified productivity app development with Swift And SwiftUI
 * hydroFV: Finite volume hydrodynamics solver for the compressible Euler's equation
 * OrbitSim: Interactive Newtonian N-body gravity simulator accelerated with C library
 
