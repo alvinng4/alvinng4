@@ -5,7 +5,7 @@
 - X: @alvinng324
 
 Interest: 
-* High performance computing, N-body simulation
+* Numerical simulation
 * Machine Learning
 * Mobile applications
 
