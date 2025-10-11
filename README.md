@@ -2,7 +2,6 @@
 
 - I am a fifth-year physics major studying at CUHK
 - You may contact me at alvinng324(at)gmail.com
-- X: @alvinng324
 
 Interest: 
 * Numerical simulation
@@ -10,7 +9,8 @@ Interest:
 * Mobile applications
 
 Current Projects:
-* Thinking what to do next!
+* Studying web development! HW1: https://alvinng4.github.io/CSCI2720_HW1/
+* Learning meteorology and weather prediction with ML
 
 Previous Projects (selected):
 * grav_sim: N-body gravity simulation library with C and Python API
