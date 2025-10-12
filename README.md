@@ -8,10 +8,7 @@ Interest:
 * Machine Learning
 * Mobile applications
 
-Current Projects:
-* Studying web development! HW1: https://alvinng4.github.io/CSCI2720_HW1/
-
-Previous Projects (selected):
+Projects (selected):
 * grav_sim: N-body gravity simulation library with C and Python API
 * ChessSL: Supervised Learning Chess engine with MCTS
 * QuestList: gamified productivity app development with Swift And SwiftUI
