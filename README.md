@@ -18,9 +18,15 @@ Projects (selected):
 Youtube channel (for project demonstrations):
 * https://www.youtube.com/@alvinng4
 
-[![Galaxy collision](https://img.youtube.com/vi/nXTUdjLXwtI/0.jpg)](https://www.youtube.com/watch?v=nXTUdjLXwtI)
-[![Cosmological structure formation](https://img.youtube.com/vi/yof2x_0IeOA/0.jpg)](https://www.youtube.com/watch?v=yof2x_0IeOA)
+<a href="https://www.youtube.com/watch?v=nXTUdjLXwtI">
+  <img src="https://img.youtube.com/vi/nXTUdjLXwtI/0.jpg" alt="Galaxy collision" height="250" style="object-fit: cover;">
+</a>
+
+<a href="https://www.youtube.com/watch?v=yof2x_0IeOA">
+  <img src="https://img.youtube.com/vi/yof2x_0IeOA/0.jpg" alt="Cosmological structure formation" height="250" style="object-fit: cover;">
+</a>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvinng4&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinng4&layout=compact&theme=radical)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinng4&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinng4&layout=compact&theme=radical" alt="Top Langs" height="200" style="object-fit: cover;">
+</a>
