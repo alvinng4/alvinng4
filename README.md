@@ -8,6 +8,9 @@ Interest:
 * Machine Learning
 * Mobile applications
 
+Current:
+* Working on c_traceback
+
 Projects (selected):
 * grav_sim: N-body gravity simulation library with C and Python API
 * ChessSL: Supervised Learning Chess engine with MCTS
