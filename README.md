@@ -1,20 +1,19 @@
 ### Hi! I am Alvin
 
 - I am a fifth-year physics major studying at CUHK
-- Currently working as an intern at HK Observatory
+- Currently working as an intern at the HK Observatory
 - You may contact me at alvinng324(at)gmail.com
 
-Interest: 
+Interest:
 * Numerical simulation
 * Machine Learning
-* Mobile applications
+* Mobile / Web development
 
 Projects (selected):
-* grav_sim: N-body gravity simulation library with C and Python API
-* ChessSL: Supervised Learning Chess engine with MCTS
-* QuestList: gamified productivity app development with Swift And SwiftUI
-* hydroFV: Finite volume hydrodynamics solver for the compressible Euler's equation
-* C Traceback: A colorful, lightweight error-propagation framework for C
+* Physics simulations: [grav_sim](https://github.com/alvinng4/grav_sim) and [hydroFV](https://github.com/alvinng4/hydroFV)
+* C libraries: [C Traceback](https://github.com/alvinng4/c_traceback) and [C Progress Bar](https://github.com/alvinng4/c_progress_bar)
+* Chess engine with machine learning: [ChessSL](https://github.com/alvinng4/chesssl_legacy)
+* Mobile application: [QuestList](https://apps.apple.com/hk/app/questlist-gamified-to-do-list/id6749169968?l=en-GB)
 
 Youtube channel (for project demonstrations):
 * https://www.youtube.com/@alvinng4
