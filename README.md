@@ -10,14 +10,14 @@ Interest:
 * Mobile / Web development
 
 Projects (selected):
-| Category               | Project Name & Link                                                                 | Description                                                              |
+| Project Name & Link                                                                 | Category               | Description                                                              | 
 |------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| Physics simulations    | [grav_sim](https://github.com/alvinng4/grav_sim)                                    | N-body gravity simulation library with C and Python API                  |
-| Physics simulations    | [hydroFV](https://github.com/alvinng4/hydroFV)                                      | Finite volume hydrodynamics solver for the compressible Euler's equation |
-| C libraries            | [C Traceback](https://github.com/alvinng4/c_traceback)                              | A colorful, lightweight error-propagation framework for C                |
-| C libraries            | [C Progress Bar](https://github.com/alvinng4/c_progress_bar)                        | A simple progress bar library for C                                      |
-| Chess engine with ML   | [ChessSL](https://github.com/alvinng4/chesssl_legacy)                               | Supervised Learning Chess engine with MCTS                               |
-| Mobile application     | [QuestList](https://apps.apple.com/hk/app/questlist-gamified-to-do-list/id6749169968?l=en-GB) | gamified productivity app development with Swift And SwiftUI   |
+| [grav_sim](https://github.com/alvinng4/grav_sim)                                    | Physics simulations    | N-body gravity simulation library with C and Python API                  |
+| [hydroFV](https://github.com/alvinng4/hydroFV)                                      | Physics simulations    | Finite volume hydrodynamics solver for the compressible Euler's equation |
+| [C Traceback](https://github.com/alvinng4/c_traceback)                              | C libraries            | A colorful, lightweight error-propagation framework for C                |
+| [C Progress Bar](https://github.com/alvinng4/c_progress_bar)                        | C libraries            | A simple progress bar library for C                                      |
+| [ChessSL](https://github.com/alvinng4/chesssl_legacy)                               | Chess engine with ML   | Supervised Learning Chess engine with MCTS                               |
+| [QuestList](https://apps.apple.com/hk/app/questlist-gamified-to-do-list/id6749169968?l=en-GB) | Mobile application     | gamified productivity app development with Swift And SwiftUI   |
 
 
 Youtube channel (for project demonstrations):
